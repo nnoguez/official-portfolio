@@ -1,6 +1,6 @@
 
     html body {
-        background-color: rgb(131, 171, 198);
+        background-color: whitesmoke;
         font-family: 'Nunito', sans-serif;
         margin: 40px;
         height: auto;
@@ -23,12 +23,12 @@
     
     li a {
         display: block;
-        color: white;
+        color: grey;
         padding-right: 20px;
     }
 
     li a:hover {
-        color: white;
+        color: black;
         text-decoration-style: wavy;
     }
 
