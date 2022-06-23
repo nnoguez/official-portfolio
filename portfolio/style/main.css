@@ -50,6 +50,7 @@
         padding: 20px 0px 80px 0px;
         padding-left: 35px;
         color: grey;
+        line-height: 1.8 !important;
     }
 
     h3 {
