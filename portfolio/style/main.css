@@ -18,7 +18,6 @@
     }
   
     li {
-        float: right;
         margin-bottom: 5000px;
 
     }
@@ -36,4 +35,13 @@
 /* contained body content */
     .contain {
         padding-top: 100px;
+    }
+
+    .bridge {
+        margin-top: 200px;
+    }
+
+    .bridge-items {
+        font-size: 30px;
+        margin: 20px;
     }
