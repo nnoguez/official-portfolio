@@ -1,7 +1,7 @@
 
     html body {
         background-color: lavenderblush;
-        font-family: 'Anton', sans-serif;
+        font-family: 'Nunito', sans-serif;
         margin: 30px;
     }
 
@@ -9,6 +9,7 @@
     ul {
         list-style-type: none;
         margin: 30;
+        font-size: 20px;
     }
   
     li {
