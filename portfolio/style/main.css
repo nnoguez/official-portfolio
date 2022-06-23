@@ -10,6 +10,7 @@
         list-style-type: none;
         margin: 30;
         font-size: 20px;
+        overflow: hidden;
     }
   
     li {
@@ -17,6 +18,7 @@
     }
     
     li a {
+        display: block;
         color: black;
         text-align: center;
         padding-right: 40px;
