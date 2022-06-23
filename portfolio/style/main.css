@@ -4,14 +4,18 @@ html, body {
     font-family: monospace;
 }
 .navbar {
-    float: right;
     text-align: center;
     margin: 30px;
 }
 
-.nav-item-left {
+#nav-item-left {
     float: left;
 }
+
+.nav-item-right {
+    float: right;
+}
+
 .navbar a {
     padding-left: 20px;
     color: black;
