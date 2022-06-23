@@ -16,11 +16,6 @@
         position: sticky;
         top: 0;
     }
-  
-    li {
-        margin-bottom: 5000px;
-
-    }
     
     li a {
         display: block;
@@ -31,12 +26,16 @@
     li a:hover {
         color: white;
         text-decoration-style: wavy;
-        text-underline-offset: 2px;
     }
 
 /* contained body content */
     .contain {
         padding-top: 100px;
+    }
+
+    h1 {
+        color: red;
+        font-size: 900px;
     }
 
     .bridge {
