@@ -47,6 +47,10 @@
         border: 10px double white;
     }
 
+    .container-3 {
+        padding-top: 130px;
+    }
+
     h1 {
         font-size: 95px !important;
         text-align: left;
@@ -104,5 +108,5 @@
 
 
     .gallery {
-        
+
     }
