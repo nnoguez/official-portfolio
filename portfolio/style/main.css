@@ -44,12 +44,12 @@
     }
 
     .bridge {
-        padding-top: 100px;
+        padding-top: 150px;
         text-align: center;
     }
 
     .bridge-items {
-        font-size: 40px;
-        padding: 0px 32px 0px 32px;
+        font-size: 50px;
+        padding: 0px 80px 0px 80px;
         display: inline;
     }
