@@ -35,11 +35,11 @@
 /* contained body content */
     .contain {
         padding-top: 130px;
-        width: 75%;
+        width: 85%;
     }
 
     h1 {
-        font-size: 80px !important;
+        font-size: 95px !important;
         text-align: left;
         padding-left: 35px;
     }
