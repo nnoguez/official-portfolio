@@ -1,6 +1,6 @@
 
     html body {
-        background-color: #f5f5f5;
+        background-color: whitesmoke;
         font-family: 'Nunito', sans-serif;
         margin: 40px;
         height: auto;
@@ -36,7 +36,6 @@
     .contain {
         padding-top: 130px;
         width: 75%;
-        background-color: red;
     }
 
     p {
