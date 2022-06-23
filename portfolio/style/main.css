@@ -1,9 +1,7 @@
 
-    @import url('https://fonts.google.com/?category=Sans+Serif,Monospace');
-    @import url('https://fonts.google.com/specimen/Caveat?category=Handwriting');
     html body {
         background-color: lavenderblush;
-        font-family: 'Sofia', sans-serif;
+        font-family: 'Nunito', sans-serif;
         margin: 30px;
     }
 
