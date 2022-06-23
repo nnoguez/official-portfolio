@@ -9,7 +9,7 @@
 /* navbar styling */
     ul {
         list-style-type: none;
-        font-size: 23px;
+        font-size: 20px;
         /* overflow: hidden; /* incompatible with sticky :( */
         font-weight: 700;
     }
@@ -39,7 +39,8 @@
 
     p {
         font-size: 100px;
-        text-align: center;
+        text-align: left;
+        padding-left: 35px;
 
     }
 
