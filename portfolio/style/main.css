@@ -10,7 +10,7 @@
     ul {
         list-style-type: none;
         font-size: 20px;
-        /* overflow: hidden; */
+        /* overflow: hidden; /* incompatible with sticky :( */
         font-weight: 700;
         position: -webkit-sticky; /*safari prefix*/
         position: sticky;
@@ -31,4 +31,9 @@
 
     li a:hover {
         text-decoration: none;
+    }
+
+/* contained body content */
+    .contain {
+        padding-top: 100px;
     }
