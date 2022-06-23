@@ -54,3 +54,8 @@
         padding: 0px 80px 0px 80px;
         display: inline;
     }
+
+    footer {
+        background-color: antiquewhite;
+        height: 200px;
+    }
