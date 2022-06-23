@@ -9,7 +9,7 @@
 /* navbar styling */
     ul {
         list-style-type: none;
-        font-size: 20px;
+        font-size: 23px;
         /* overflow: hidden; /* incompatible with sticky :( */
         font-weight: 700;
     }
@@ -24,7 +24,7 @@
     li a {
         display: block;
         color: grey;
-        padding-right: 20px;
+        padding-right: 30px;
     }
 
     li a:hover {
@@ -34,7 +34,7 @@
 
 /* contained body content */
     .contain {
-        padding-top: 100px;
+        padding-top: 130px;
     }
 
     p {
