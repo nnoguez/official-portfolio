@@ -36,6 +36,7 @@
     .contain {
         padding-top: 130px;
         width: 75%;
+        background-color: red;
     }
 
     p {
