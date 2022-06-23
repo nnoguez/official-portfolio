@@ -9,7 +9,7 @@
     ul {
         list-style-type: none;
         font-size: 20px;
-        overflow: hidden;
+        /* overflow: hidden; */
         font-weight: 700;
         position: -webkit-sticky; /*safari prefix*/
         position: sticky;
