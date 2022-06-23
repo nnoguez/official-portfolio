@@ -38,10 +38,11 @@
     }
 
     .bridge {
-        margin-top: 200px;
+        padding-top: 100px;
     }
 
     .bridge-items {
-        font-size: 30px;
-        margin: 20px;
+        font-size: 40px;
+        margin: 0px 50px 0px 50px;
+        display: inline;
     }
