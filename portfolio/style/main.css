@@ -29,8 +29,9 @@
     }
 
     li a:hover {
-        text-decoration: underline dotted;
         color: white;
+        text-decoration-style: wavy;
+        text-underline-offset: 2px;
     }
 
 /* contained body content */
