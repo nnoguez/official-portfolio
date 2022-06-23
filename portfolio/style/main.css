@@ -1,6 +1,6 @@
 
     html body {
-        background-color: lavenderblush;
+        background-color: rgb(151, 151, 151);
         font-family: 'Nunito', sans-serif;
         margin: 40px;
     }
@@ -11,15 +11,18 @@
         font-size: 20px;
         overflow: hidden;
         font-weight: 700;
+        position: fixed;
     }
   
     li {
         float: right;
+        margin-bottom: 50px;
+
     }
     
     li a {
         display: block;
-        color: black;
+        color: white;
         padding-right: 20px;
     }
 
