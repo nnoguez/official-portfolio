@@ -12,9 +12,13 @@
         font-size: 20px;
         /* overflow: hidden; /* incompatible with sticky :( */
         font-weight: 700;
+    }
+
+    .sticky {
         position: -webkit-sticky; /*safari prefix*/
         position: sticky;
         top: 0;
+        padding-top: 20px;
     }
     
     li a {
@@ -34,12 +38,14 @@
     }
 
     p {
-        color: red;
-        font-size: 900px;
+        font-size: 100px;
+        text-align: center;
+
     }
 
     .bridge {
         padding-top: 100px;
+        text-align: center;
     }
 
     .bridge-items {
