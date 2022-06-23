@@ -1,28 +1,26 @@
 
-html, body {
-    background-color: lavenderblush;
-    font-family: monospace;
-}
-.navbar {
-    text-align: center;
-    margin: 30px;
-}
+    html, body {
+        background-color: lavenderblush;
+        font-family: fantasy;
+        margin: 30px;
+    }
 
-#nav-item-left {
-    float: left;
-}
+/* navbar styling */
+    ul {
+        list-style-type: none;
+        margin: 30;
+    }
+  
+    li {
+        float: right;
+    }
+    
+    li a {
+        color: black;
+        text-align: center;
+        padding-right: 40px;
+    }
 
-.nav-item-right {
-    float: right;
-}
-
-.navbar a {
-    padding-left: 20px;
-    color: black;
-}
-
-    .navbar a:hover {
-        padding-left: 20px;
+    li a:hover {
         text-decoration: none;
-        color: rgb(128, 128, 128);
     }
