@@ -1,6 +1,6 @@
 
     html body {
-        background-color: rgb(151, 151, 151);
+        background-color: rgb(131, 171, 198);
         font-family: 'Nunito', sans-serif;
         margin: 40px;
         height: auto;
@@ -29,7 +29,7 @@
     }
 
     li a:hover {
-        text-decoration: none;
+        color: white;
     }
 
 /* contained body content */
