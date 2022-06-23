@@ -1,17 +1,24 @@
 
 html, body {
     background-color: lavenderblush;
-    font-family: cursive;
+    font-family: monospace;
 }
 .navbar {
     float: right;
     text-align: center;
     margin: 30px;
-    text-decoration: none;
 }
 
-a {
+.nav-item-left {
+    float: left;
+}
+.navbar a {
     padding-left: 20px;
-    text-decoration: none;
     color: black;
 }
+
+    .navbar a:hover {
+        padding-left: 20px;
+        text-decoration: none;
+        color: rgb(128, 128, 128);
+    }
