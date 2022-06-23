@@ -11,8 +11,9 @@
         font-size: 20px;
         overflow: hidden;
         font-weight: 700;
+        position: -webkit-sticky; /*safari prefix*/
         position: sticky;
-        position: -webkit-sticky;
+        top: 0;
     }
   
     li {
