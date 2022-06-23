@@ -58,5 +58,6 @@
     footer {
         background-color: antiquewhite;
         height: 200px;
+        margin: -40px;
         position: relative;
     }
